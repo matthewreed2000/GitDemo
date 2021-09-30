@@ -35,3 +35,6 @@ A tuitorial for beginner using git
 
 ## Helpful tool
 http://www.ndpsoftware.com/git-cheatsheet.html#loc=index;
+
+## Git Cheat Sheet
+https://education.github.com/git-cheat-sheet-education.pdf
