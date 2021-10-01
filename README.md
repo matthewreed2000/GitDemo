@@ -1,6 +1,10 @@
 # GitDemo
 A tuitorial for beginner using git
 
+## Configure your git
+1. git config --gloabl user.email "email"
+2. git config --global user.name "name"
+
 ## Steps to initialize v.1
 1. Open your desire folder with your terminal
 2. git init
